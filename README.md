@@ -1,5 +1,7 @@
 # Editorial Portfolio Chapters
 
+> **Now part of [Forge Skills](https://github.com/zyadhajaji/forge-skills).** This skill lives on as the editorial portfolio page type inside the `art-direction` skill, next to SaaS, local business and commerce page types. Install the suite for the latest version. This repo stays available but will not be updated.
+
 Editorial Portfolio Chapters is an agent skill for creative-studio, agency, photographer, artist and portfolio websites where the work leads the story. Your coding agent builds the page as a sequence of distinct editorial chapters, like turning the pages of a magazine, so the work creates desire before the studio explains itself.
 
 ## How it works
