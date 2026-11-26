@@ -1,0 +1,18 @@
+{
+  "name": "editorial-portfolio-chapters",
+  "description": "Build creative-studio, agency and portfolio websites as editorial chapters where the work leads the story: dark shells, color-coded case studies, oversized service type and a decisive contact finale.",
+  "owner": {
+    "name": "zyadhajaji"
+  },
+  "plugins": [
+    {
+      "name": "editorial-portfolio-chapters",
+      "description": "Build creative-studio, agency and portfolio websites as editorial chapters where the work leads the story: dark shells, color-coded case studies, oversized service type and a decisive contact finale.",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "zyadhajaji"
+      }
+    }
+  ]
+}

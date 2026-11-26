@@ -1,0 +1,29 @@
+{
+  "name": "editorial-portfolio-chapters",
+  "description": "Build creative-studio, agency and portfolio websites as editorial chapters where the work leads the story: dark shells, color-coded case studies, oversized service type and a decisive contact finale.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zyadhajaji"
+  },
+  "homepage": "https://github.com/zyadhajaji/editorial-portfolio-chapters",
+  "repository": "https://github.com/zyadhajaji/editorial-portfolio-chapters",
+  "license": "MIT",
+  "keywords": [
+    "portfolio",
+    "agency-website",
+    "editorial-design",
+    "creative-studio",
+    "case-study",
+    "gsap",
+    "typography",
+    "motion-design",
+    "web-design",
+    "frontend",
+    "agent-skills",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "cursor",
+    "ai-agents"
+  ]
+}
